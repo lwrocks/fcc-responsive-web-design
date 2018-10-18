@@ -13,11 +13,6 @@ html, body {
   background: black;
 }
 
-#a, #h1, #h3 {
-  color: #EF3179;
-  text-transform: bold;
-}
-
 img {
   max-width: 100%;
   display: block;
@@ -31,4 +26,23 @@ img {
   width: 100%;
   border: 5px #EF3179;
   background: black;
+}
+
+#img-caption {
+  margin: 15px;
+}
+
+#headline {
+  margin-top: 550px;
+  text-align: left;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+li {
+  margin: 10px;
 }
